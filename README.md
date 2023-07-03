@@ -1,5 +1,6 @@
 # Comandos-Git
 
+<<<<<<< HEAD
 git-clone https://github.com/let-io/Comandos-Git  (permite clonar en local un repositorio ubicado en una url de github)
 git pull (permite descargar y actualizar en el repositorio local los cambios que ha habido en el repositorio en github)
 git checkout + nombre de rama (permite cambiar a la rama indicada)
@@ -28,3 +29,6 @@ git push origin + nombre de rama (permite subir una rama local a github)
     branch 'feature_prueba' set up to track 'origin/feature_prueba'.
     
 
+=======
+Una modificación de prueba...
+>>>>>>> develop
