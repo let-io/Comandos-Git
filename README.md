@@ -36,6 +36,6 @@
 
 **10. git branch + nombre de la rama** (para crear una rama en local a partir de la rama 'develop')<br/>
 
-**11. rm -rf + nombre de archivo o directorio** (permite eliminar un archivo o directorio local)<br/>
+**11. rm -rf + nombre de archivo o directorio** (permite eliminar un archivo o directorio local)<br/><br/>
 
-![C:/Users/Jorge.Alonso/OneDrive/Escritorio/GIT/Comandos-Git/captura.png]
+![Captura](C:/Users/Jorge.Alonso/OneDrive/Escritorio/GIT/Comandos-Git/captura.png "Captura")
