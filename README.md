@@ -32,10 +32,3 @@
     b000c55..66e7be0  feature_prueba -> feature_prueba
     branch 'feature_prueba' set up to track 'origin/feature_prueba'.
     
-**9. git branch -D + rama en local** (eliminar la rama local indicada)
-
-![Alt text](image.png)
-
-**10. git branch + nombre de la rama** (para crear una rama en local a partir de la rama 'develop')
-
-![Alt text](image-2.png)
