@@ -32,13 +32,21 @@
     b000c55..66e7be0  feature_prueba -> feature_prueba
     branch 'feature_prueba' set up to track 'origin/feature_prueba'.
     
+<<<<<<< HEAD
+=======
+<<<<<<< nueva_feature
+>>>>>>> 898b88fed48cb7525459a43ce8f7e9ad29fe347f
 **git branch -D + rama en local** (eliminar la rama local indicada)<br/>
 
 **git branch + nombre de la rama** (para crear una rama en local a partir de la rama 'develop')<br/>
 
 **rm -rf + nombre de archivo o directorio** (permite eliminar un archivo o directorio local)<br/>
 
+<<<<<<< HEAD
 ![Captura](captura.png "Captura")
+=======
+
+>>>>>>> 898b88fed48cb7525459a43ce8f7e9ad29fe347f
 <br/><br/>
 
 <hr/>
@@ -46,4 +54,8 @@
 ### Comparar dos ramas <hr/>
 
 **1. git checkout + nombre de la rama** (cambiar a la rama creada a partir de develop)<br/>
+<<<<<<< HEAD
 **2. git request-pull + rama develop + url del repositorio** (compara la rama feature con la rama develop)
+=======
+**2. git request-pull + rama develop + url del repositorio** (compara la rama feature con la rama develop)
+>>>>>>> 898b88fed48cb7525459a43ce8f7e9ad29fe347f
