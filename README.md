@@ -39,7 +39,7 @@
 
 **rm -rf + nombre de archivo o directorio** (permite eliminar un archivo o directorio local)<br/>
 
-![Captura](./captura.png "Captura")
+
 <br/><br/>
 
 <hr/>
