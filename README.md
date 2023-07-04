@@ -38,4 +38,4 @@
 
 **11. rm -rf + nombre de archivo o directorio** (permite eliminar un archivo o directorio local)<br/><br/>
 
-![Captura](C:/Users/Jorge.Alonso/OneDrive/Escritorio/GIT/Comandos-Git/captura.png "Captura")
+![Captura](./captura.png "Captura")
