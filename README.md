@@ -39,3 +39,10 @@
 **11. rm -rf + nombre de archivo o directorio** (permite eliminar un archivo o directorio local)<br/>
 
 ![Captura](./captura.png "Captura")
+<br/><br/>
+
+<hr/>
+
+
+**1. git checkout + nombre de la rama** (cambiar a la rama creada a partir de develop)<br/>
+**2. git request-pull + rama develop + url del repositorio** (compara la rama feature con la rama develop)
